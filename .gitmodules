@@ -1,0 +1,4 @@
+[submodule "external/shared-kernel-java"]
+	path = external/shared-kernel-java
+	url = https://github.com/marcusPrado02/shared-kernel-java
+	branch = main
